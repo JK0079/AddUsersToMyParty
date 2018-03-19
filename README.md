@@ -10,8 +10,6 @@ React Web project with ExpressJS on NodeJS
 * [Requirements](#requirements)
 * [Services](#services)
 * [Configuration](#configuration)
-* [Run](#run)
-* [Debug](#debug)
 
 <a name="summary"></a>
 ### Summary
